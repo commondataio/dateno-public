@@ -1,10 +1,15 @@
 # FAQ
 
-## What is Dateno?
+ 
+<details>
+<summary>What is Dateno?</summary>
 
 Dateno is a dataset search engine. It's intended to help researchers, analysts, developers, journalists and everyone else to find relevant data.
 
 Dateno is ready for your everyday data search.
+
+</details>
+
 
 ## How big is Dateno index?
 

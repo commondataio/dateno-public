@@ -12,7 +12,7 @@ Dateno is ready for your everyday data search.
 <details>
 <summary>How big is Dateno index?</summary>
 
-Dateno index has 6.9 millions records from 2.5k data catalogs in the end of 2023. 
+Dateno index has 10 millions records from 4.9k data catalogs in the March 2024. 
 </details>
 
 <details>

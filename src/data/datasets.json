@@ -1,0 +1,183 @@
+[
+    {
+        "id": "1db2791895867a53b58b28cd979c61b11cd5c0877a4c7a9d5ac45cd76d306f29",
+        "int_id": "https://www.datos.gov.co/api/views/67fb-gmbe",
+        "source": {
+            "uid": "cdi00000385",
+            "name": "Datos Abiertos Colombia",
+            "url": "https://www.datos.gov.co",
+            "catalog_type": "Open data portal",
+            "langs": [
+                {
+                    "id": "ES",
+                    "name": "Spanish"
+                },
+                {
+                    "id": "EN",
+                    "name": "English"
+                }
+            ],
+            "owner_name": "Ministerio de Tecnologías de la Información y las Comunicaciones",
+            "owner_type": "Central government",
+            "software": {
+                "id": "socrata",
+                "name": "Socrata"
+            },
+            "countries": [
+                {
+                    "id": "CO",
+                    "name": "Colombia"
+                }
+            ],
+            "macroregions": [
+                {
+                    "id": "005",
+                    "name": "South America"
+                }
+            ],
+            "subregions": []
+        },
+        "dataset": {
+            "id": "https://www.datos.gov.co/api/views/67fb-gmbe",
+            "title": "Consolidado variables Observatorio Social",
+            "num_resources": 4,
+            "url": "https://www.datos.gov.co/d/67fb-gmbe",
+            "short_text": "Información socioeconómica y de variables relacionadas con la salud en",
+            "description": "Información socioeconómica y de variables relacionadas con la salud en los hogares con cobertura en los 27 municipios del departamento de Caldas.",
+            "has_archive": false,
+            "tags": [
+                "observatorio social",
+                "municipios",
+                "observatorio",
+                "salud"
+            ],
+            "formats": [
+                ".csv",
+                ".rdf",
+                ".json",
+                ".xml,.xpdl,.xsl"
+            ],
+            "datatypes": [
+                "data",
+                "semweb"
+            ],
+            "topics_origial": null,
+            "responsible": [
+                {
+                    "id": null,
+                    "title": "www.datos.gov.co",
+                    "role": "Publisher"
+                }
+            ],
+            "license_id": "cc-by",
+            "license_name": "Creative Commons Attribution",
+            "license_url": null
+        },
+        "resources": [
+            {
+                "id": null,
+                "name": "",
+                "datasize": null,
+                "format": null,
+                "mimetype": "text/csv",
+                "url": "https://www.datos.gov.co/api/views/67fb-gmbe/rows.csv?accessType=DOWNLOAD"
+            },
+            {
+                "id": null,
+                "name": "",
+                "datasize": null,
+                "format": null,
+                "mimetype": "application/rdf+xml",
+                "url": "https://www.datos.gov.co/api/views/67fb-gmbe/rows.rdf?accessType=DOWNLOAD"
+            },
+            {
+                "id": null,
+                "name": "",
+                "datasize": null,
+                "format": null,
+                "mimetype": "application/json",
+                "url": "https://www.datos.gov.co/api/views/67fb-gmbe/rows.json?accessType=DOWNLOAD"
+            },
+            {
+                "id": null,
+                "name": "",
+                "datasize": null,
+                "format": null,
+                "mimetype": "application/xml",
+                "url": "https://www.datos.gov.co/api/views/67fb-gmbe/rows.xml?accessType=DOWNLOAD"
+            }
+        ]
+    },
+    {
+        "source": "Datos Abiertos Colombia",
+        "resource": "CSV",
+        "data": [
+            {
+                "date": "2023-01-01",
+                "value": 100
+            },
+            {
+                "date": "2023-02-01",
+                "value": 150
+            },
+            {
+                "date": "2023-03-01",
+                "value": 200
+            }
+        ]
+    },
+    {
+        "source": "Datos Abiertos Colombia",
+        "resource": "RDF",
+        "data": [
+            {
+                "date": "2023-01-01",
+                "value": 50
+            },
+            {
+                "date": "2023-02-01",
+                "value": 75
+            },
+            {
+                "date": "2023-03-01",
+                "value": 100
+            }
+        ]
+    },
+    {
+        "source": "Datos Abiertos Colombia",
+        "resource": "JSON",
+        "data": [
+            {
+                "date": "2023-01-01",
+                "value": 200
+            },
+            {
+                "date": "2023-02-01",
+                "value": 250
+            },
+            {
+                "date": "2023-03-01",
+                "value": 300
+            }
+        ]
+    },
+    {
+        "source": "Datos Abiertos Colombia",
+        "resource": "XML",
+        "data": [
+            {
+                "date": "2023-01-01",
+                "value": 80
+            },
+            {
+                "date": "2023-02-01",
+                "value": 90
+            },
+            {
+                "date": "2023-03-01",
+                "value": 100
+            }
+        ]
+    }
+]

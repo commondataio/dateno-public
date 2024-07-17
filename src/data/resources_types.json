@@ -1,0 +1,50 @@
+[
+        {
+            "type": "pdf",
+            "amount": 2310023
+        },
+        {
+            "type": "csv",
+            "amount": 29741089
+        },
+        {
+            "type": "xml",
+            "amount": 17232431
+        },
+        {
+            "type": "rdf",
+            "amount": 3297089
+        },
+        {
+            "type": "json",
+            "amount": 39741089
+        },
+        {
+            "type": "html",
+            "amount": 23242342
+        },
+        {
+            "type": "xls",
+            "amount": 5242342
+        },
+        {
+            "type": "xlsx",
+            "amount": 5924342
+        },
+        {
+            "type": "zip",
+            "amount": 1142342
+        },
+        {
+            "type": "wms",
+            "amount": 2124234
+        },
+        {
+            "type": "txt",
+            "amount": 14254342
+        }
+
+        
+    ]
+
+    

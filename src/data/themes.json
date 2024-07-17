@@ -1,0 +1,54 @@
+[
+    {
+      "name": "Regions and cities",
+      "value": 1876749
+    },
+    {
+      "name": "Environment",
+      "value": 1324429
+    },
+    {
+      "name": "Government and public sector",
+      "value": 313709
+    },
+    {
+      "name": "Population and society",
+      "value": 237317
+    },
+    {
+      "name": "Economy and finance",
+      "value": 137718
+    },
+    {
+      "name": "Transport",
+      "value": 111460
+    },
+    {
+      "name": "Health",
+      "value": 83339
+    },
+    {
+      "name": "Education, culture and sport",
+      "value": 74544
+    },
+    {
+      "name": "Agriculture, fisheries, forestry and food",
+      "value": 58459
+    },
+    {
+      "name": "Science and technology",
+      "value": 23950
+    },
+    {
+      "name": "Justice, legal system and public safety",
+      "value": 20222
+    },
+    {
+      "name": "Energy",
+      "value": 16289
+    },
+    {
+      "name": "International issues",
+      "value": 538
+    }
+  ]

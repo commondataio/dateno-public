@@ -2,6 +2,10 @@
 
 Dateno project and subprojects unified changelog.
 
+## 0.1.0 - 2024-10-14
+
+* Access to API after registration on <https://my.dateno.io>
+
 ## 0.0.2 - 2024-03-14
 
 ### New datasets
@@ -17,20 +21,20 @@ Dateno project and subprojects unified changelog.
 * Integrated Common Data Index registry as Dateno Registry at dateno.io/registry
 * Updated Dateno Registry styles
 
-## API and backend 
+## API and backend
 
 * Added new filter "Data type" with *dataset.datatype* field
 * Replaced *dataset.formats* with autodetected values starting with dot
 * Added autodetected mime and extensions to *resources* as "*d_mime*" and "*d_ext*"
-* Updated Meilisearch up to 1.7.1 version (faster indexing, less space used) 
+* Updated Meilisearch up to 1.7.1 version (faster indexing, less space used)
 * Rebuilded search index,
 
 ### Data catalogs registry
 
 * Renamed Common Data Index registry to Dateno Registry
-* Updated metadata of the almost PxWeb installations 
+* Updated metadata of the almost PxWeb installations
 * Added multiple Hyrax and Esploro based data catalogs
-* Added many new scientific data catalogs in China 
+* Added many new scientific data catalogs in China
 * Fixed many typos using builder "validate" command
 
 ## 0.0.1 - 2024-03-13
@@ -38,4 +42,4 @@ Dateno project and subprojects unified changelog.
 ### Added
 
 * First version released
-* Added search index with basic 
+* Added search index with basic

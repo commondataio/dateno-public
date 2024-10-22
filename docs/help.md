@@ -1,6 +1,6 @@
 # Question &rarr; Answer
 
-Frequentkly asked questions, FAQ.
+Frequently asked questions, FAQ.
 
 ## General Questions
 

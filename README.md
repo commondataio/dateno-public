@@ -5,7 +5,7 @@ Dateno is a powerful dataset search engine designed to help researchers, analyst
 ## Features
 
 - **Fast Search**: Utilizes Meilisearch for lightning-fast search results
-- **Comprehensive Index**: Over 19 million records from 4.9k data catalogs (as of October 2024)
+- **Comprehensive Index**: Over 19 million records from 5.1k data catalogs (as of October 2024)
 - **Powerful Filters**: Filter by country, subregion, macroregion, catalog owner, catalog type, software, spoken language, and more
 - **API Access**: Programmatic access to the Dateno index
 - **Data Preservation**: Archiving datasets at risk of disappearing
@@ -13,6 +13,8 @@ Dateno is a powerful dataset search engine designed to help researchers, analyst
 ## Getting Started
 
 Visit our main website: <https://dateno.io>
+
+[Register](https://my.dateno.io) to get a personal API key and browse [API documentation](https://api.dateno.io)
 
 Explore our data registry: <https://dateno.io/registry>
 
@@ -26,7 +28,7 @@ Dateno is developed by APICrafter Development Ltd. and Open Data Armenia. Our te
 
 ## License
 
-[License information to be added]
+[License](./License.md)
 
 ## Contact
 

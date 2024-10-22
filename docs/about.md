@@ -10,13 +10,13 @@ We believe that access to data should be easy and efficient. By creating a power
 
 1. **Speed**: We've optimized our search functionality to deliver results as quickly as possible using Meilisearch.
 2. **Comprehensive Filtering**: Our advanced filtering system allows users to narrow down results by various parameters, making it easier to find exactly what you need.
-3. **API-First Architecture**: (Coming soon) We're building Dateno with API access in mind, allowing for seamless integration into your workflows and applications.
+3. **API-First Architecture**: We're building Dateno with [API access](https://api.dateno.io) in mind, allowing for seamless integration into your workflows and applications.
 4. **Extensive Index**: Our constantly growing index includes millions of records from thousands of data catalogs worldwide.
 5. **Data Preservation**: We're committed to archiving datasets that are at risk of disappearing, ensuring valuable data remains accessible.
 
 ## How It Works
 
-Dateno is built on the Common Data Index registry of data catalogs. We crawl various types of data sources, including:
+Dateno is built on the [Dateno registry](https://dateno.io/registry) of data catalogs. We crawl various types of data sources, including:
 
 - Open data portals
 - Geoservers/geoportals

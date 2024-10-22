@@ -28,7 +28,11 @@ Dateno is developed by APICrafter Development Ltd. and Open Data Armenia. Our te
 
 ## License
 
-[License](./License.md)
+[License](./LICENSE)
+
+Read [Privacy notes](https://dateno.io/privacy).
+
+Explore [Terms and Conditions](https://dateno.io/conditions).
 
 ## Contact
 

@@ -1,4 +1,6 @@
-# Frequently Asked Questions (FAQ)
+# Question &rarr; Answer
+
+Frequentkly asked questions, FAQ.
 
 ## General Questions
 
@@ -8,11 +10,11 @@ Dateno is a dataset search engine designed to help researchers, analysts, develo
 
 ### How big is the Dateno index?
 
-As of March 2024, the Dateno index contains 10 million records from 4.9k data catalogs.
+As of October 2024, the Dateno index contains 19 million records from 5.1k data catalogs.
 
 ### What makes Dateno different from other search engines?
 
-Dateno focuses on speed, advanced filtering options, API access (coming soon), a large index size, and data archiving capabilities.
+Dateno focuses on speed, advanced filtering options, [API access](https://api.dateno.io), a large index size, and data archiving capabilities. [Register here](https://my.dateno.io) to get you personal API key.
 
 ## Features
 
@@ -82,7 +84,7 @@ Dateno currently supports the following software:
 
 If your catalog is not indexed, it may be because:
 
-- It's not in the Common Data Index registry
+- It's not in the [Dateno registry](https://dateno.io/registry)
 - It doesn't have any supported API or export format
 - There's a connectivity issue (e.g., US IP addresses blocked)
 
